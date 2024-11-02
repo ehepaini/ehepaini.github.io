@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehepaini.github.io/ePI/sitemap_index.txt
+Sitemap: https://ehepaini.github.io/kDI/sitemap_index.txt
+Sitemap: https://ehepaini.github.io/ptv/sitemap_index.txt
+Sitemap: https://ehepaini.github.io/uDl/sitemap_index.txt
